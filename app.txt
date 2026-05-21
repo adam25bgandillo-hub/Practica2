@@ -1,4 +1,4 @@
-Línia 1
+Línia 1 modificada per B
 Línia 2
 Línia 3
 Canvi alumne B
